@@ -1,4 +1,3 @@
-# Intelligent-Sourcing
 # Supply Chain Optimization - PoC
 # Problem Statement
 
