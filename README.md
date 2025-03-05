@@ -3,6 +3,9 @@
 
 A company has multiple factories, multiple warehouses and stores located across different regions. The goal is to determine the optimal distribution plan to minimize the total transportation cost while meeting the demand of each store and respecting the production of each factory.
 
+![image](https://github.com/user-attachments/assets/f012935b-d477-4efd-a6be-65b5ebc1206a)
+
+
 | Feature | Description |
 |---|---|
 | **Company Name** |  *Test Company* |
